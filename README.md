@@ -47,6 +47,6 @@ The Data:
 
 ### Team Members
 
-Brooke Smyth: https://github.com/brooke57
-Emine Kesici: https://github.com/emykes
-Tamiru B. Denka: https://github.com/Tamiru3
+- Brooke Smyth: https://github.com/brooke57
+- Emine Kesici: https://github.com/emykes
+- Tamiru B. Denka: https://github.com/Tamiru3
