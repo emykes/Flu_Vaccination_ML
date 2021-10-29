@@ -6,9 +6,6 @@ The aim of this study is to predict how likely individuals are to receive their 
 
 ## Data Overview
 
-The Data: 
-- The following link is the csv file of the original dataset:
-
 
 
 
