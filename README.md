@@ -30,10 +30,10 @@ The Data:
 
 
 
-
 ## Repository Navigation
 
-### Data: https://www.drivendata.org/competitions/66/flu-shot-learning/page/213/
+### Data:
+- https://www.drivendata.org/competitions/66/flu-shot-learning/page/213/
 
 
 
