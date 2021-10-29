@@ -1,4 +1,4 @@
-# PROJECT 3 - FLU VACCINATION MACHINE LEARNING PROJECT
+# H1N1 FLU VACCINATION MACHINE LEARNING PROJECT
 ## Project Overview
 Vaccination, as one of the most successful public health interventions led to the elimination and control of diseases that were once common throughout the world. Despite overwhelming medical evidence and the unanimous position of medical professionals in favor of vaccination, the number of people skeptical about vaccination has grown in many countries in recent years. The consequence of this alarming trend is a decline in immunization coverage. Several outbreaks of infectious diseases have been linked to undervaccinated communities. The problem of expanding vaccine rejection has begun to be so widespread that it became the subject of many studies aimed at understanding the sources and correlations of attitudes toward vaccination.
 
@@ -38,8 +38,8 @@ The Data:
 
 
 ### Notebooks
-
-
+- Final notebook: https://github.com/emykes/Flu_Vaccination_ML/blob/main/Project3_Main_Notebook.ipynb
+- Modeling iterations: https://github.com/emykes/Flu_Vaccination_ML/blob/main/Project3_model_iterations.ipynb
 
 ### Presentation
 
